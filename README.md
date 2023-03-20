@@ -6,6 +6,7 @@ Philip Burkart Game Studio-C++ Handwriting Miniaturization STL Project.
 已实现：
 
 1.string
+
 2.vector
 
 计划实现:
@@ -27,3 +28,13 @@ sort
 iterator
 
 等一些STL容器和STL算法、STL迭代器
+
+草稿：
+
+list
+
+思路：
+
+queue
+
+stack
